@@ -2,7 +2,7 @@
 # Assignment-1
 • Implemented a k-Nearest Neighbor classifier, Perceptron algorithm and Linear Regression and evaluate them.
 # Assignment-2
-• Implement Logistic Regression for binary and multiclass classification.
+• Implemened Logistic Regression for binary and multiclass classification.
 • Built multi-layer perceptrons and convolutional neural networks.
 # Assignment-3
 • Built a linear SVM classifier and decision tree classifier.
