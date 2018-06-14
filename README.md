@@ -11,3 +11,5 @@
 • Implemented K-means clustering algorithms and used K-means clustering to classify data and compress image.
 • Implemented EM algorithms to estimate the parameters of Gaussian Mixture Models and to sample from the GMM distribution.
 # Assignment-5
+• Implement three inference procedures of of a small hidden Markov model.
+• Implement Principal Component Analysis (PCA) and use it for image compression.
